@@ -1,9 +1,20 @@
 # Anna Matveeva 
-![Alt - текст] (https://vk.com/tiblochko?z=photo134670866_457243550%2Falbum134670866_0%2Frev)
 
 My contacts:
-
-+7962927229
-telegram @AnnaMotya
+<p>+7962927229</p>
+<p>telegram @AnnaMotya,</p>
 discord Tiblochko@8300
+
+
+===
+
+Im an absolute beginner in programming and I cant really boast of anything, only basic knowledge of HTTP and CSS.
+
+About me - organized and responsible, I will always help my colleagues in trouble.
+
+Poor knowledge of English.
+
+
+
+
 
