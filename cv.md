@@ -15,6 +15,6 @@ About me - organized and responsible, I will always help my colleagues in troubl
 Poor knowledge of English.
 
 
-
+![картинка с таксой](https://yandex.ru/images/search?from=tabbar&text=как%20сапожок%20nfrcf%20vtv&pos=0&img_url=http%3A%2F%2Fmeme-arsenal.com%2Fmemes%2F5c6c330e43957b1e4d1ff834b86f209f.jpg&rpt=simage&lr=197)
 
 
